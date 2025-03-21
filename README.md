@@ -1,1 +1,2 @@
 # Tamagochu
+First commit
